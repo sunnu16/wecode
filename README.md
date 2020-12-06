@@ -5,5 +5,6 @@
 ```
 git init
 git status
+git log
 git commit -m ""
 ```
